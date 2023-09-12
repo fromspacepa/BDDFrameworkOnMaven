@@ -1,0 +1,32 @@
+2023-07-24 06:44:46,127 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 06:46:09,750 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 06:54:29,252 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:20:26,016 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:21:56,422 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:22:04,343 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:26:28,123 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:30:28,880 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:40:44,627 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:40:49,555 - logger_File -INFO - Text verified!
+2023-07-24 17:40:49,555 - logger_File -INFO - Homepage validated successfully
+2023-07-24 17:40:50,271 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2023-07-24 17:52:42,982 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 17:52:45,638 - logger_File -INFO - Text verified!
+2023-07-24 17:52:45,638 - logger_File -INFO - Homepage validated successfully
+2023-07-24 17:52:46,323 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2023-07-24 18:26:15,012 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-24 18:26:17,545 - logger_File -INFO - Text verified!
+2023-07-24 18:26:17,545 - logger_File -INFO - Homepage validated successfully
+2023-07-24 18:26:18,209 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2023-07-26 14:53:32,866 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-26 14:53:59,075 - logger_File -INFO - Scenario Login to Test Environment Retail Page FAILED
+2023-07-26 15:01:45,799 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-26 15:01:47,186 - logger_File -INFO - Scenario Login to Test Environment Retail Page FAILED
+2023-07-26 15:02:54,170 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-26 15:02:55,559 - logger_File -INFO - Scenario Login to Test Environment Retail Page FAILED
+2023-07-26 15:03:13,005 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-26 15:03:14,346 - logger_File -INFO - Scenario Login to Test Environment Retail Page FAILED
+2023-07-26 15:07:08,212 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2023-07-26 15:07:11,725 - logger_File -INFO - Text verified!
+2023-07-26 15:07:11,725 - logger_File -INFO - Homepage validated successfully
+2023-07-26 15:07:12,777 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
